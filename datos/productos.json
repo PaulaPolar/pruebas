@@ -3,15 +3,15 @@
  "nombre":"pan",
 "precio":30.000,
  "foto":"images/producto1.jpg",
- "descrpcion":"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"},
+ "descrpcion":'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris'},
  {"id":20,
  "nombre":"mojicon",
 "precio":40.000,
  "foto":"images/producto2.jpg",
- "descrpcion":"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"},
+ "descrpcion":'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris'},
  {"id":30,
  "nombre":"agridulce",
 "precio":70.000,
  "foto":"images/producto3.jpg",
- "descrpcion":"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"}
+ "descrpcion":'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris'}
  ] }
